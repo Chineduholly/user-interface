@@ -1,0 +1,22 @@
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\bin\Debug\god abeg.exe.config
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\bin\Debug\god abeg.exe
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\bin\Debug\god abeg.pdb
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god abeg.csproj.AssemblyReference.cache
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god abeg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god_abeg.Form1.resources
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god_abeg.Properties.Resources.resources
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god abeg.csproj.GenerateResource.cache
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god abeg.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god abeg.exe
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god abeg.pdb
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god_abeg.Main.resources
+C:\Users\Lenovo ThinkPad\source\repos\god abeg\god abeg\obj\Debug\god_abeg.User_Module.resources
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god abeg.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god_abeg.Form1.resources
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god_abeg.Main.resources
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god_abeg.Properties.Resources.resources
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god_abeg.User_Module.resources
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god abeg.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god abeg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god abeg.exe
+C:\Users\hp\Desktop\god abeg\god abeg\obj\Debug\god abeg.pdb
